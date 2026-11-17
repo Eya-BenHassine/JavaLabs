@@ -1,4 +1,4 @@
-package Ex2;
+package Lab4.Ex2;
 
 public class Point {
     private double x;

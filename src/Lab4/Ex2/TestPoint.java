@@ -1,4 +1,4 @@
-package Ex2;
+package Lab4.Ex2;
 
 public class TestPoint {
     public static void main(String[] args) {

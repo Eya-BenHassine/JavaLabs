@@ -1,4 +1,4 @@
-package Ex4;
+package Lab4.Ex4;
 
 import java.time.LocalDate;
 import java.time.Period;

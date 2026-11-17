@@ -1,4 +1,4 @@
-package Ex1;
+package Lab4.Ex1;
 
 public class Personne {
     private float solde;
